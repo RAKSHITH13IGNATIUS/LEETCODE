@@ -43,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/RAKSHITH13IGNATIUS/LEETCODE/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/RAKSHITH13IGNATIUS/LEETCODE/tree/master/0089-gray-code) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/RAKSHITH13IGNATIUS/LEETCODE/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/RAKSHITH13IGNATIUS/LEETCODE/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
