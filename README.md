@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/RAKSHITH13IGNATIUS/LEETCODE/tree/master/0089-gray-code) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RAKSHITH13IGNATIUS/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RAKSHITH13IGNATIUS/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
