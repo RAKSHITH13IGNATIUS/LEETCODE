@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RAKSHITH13IGNATIUS/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/RAKSHITH13IGNATIUS/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RAKSHITH13IGNATIUS/LEETCODE/tree/master/0189-rotate-array) |
+| [2058-concatenation-of-array](https://github.com/RAKSHITH13IGNATIUS/LEETCODE/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RAKSHITH13IGNATIUS/LEETCODE/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/RAKSHITH13IGNATIUS/LEETCODE/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
